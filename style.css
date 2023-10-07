@@ -46,6 +46,10 @@ button:hover, form .btn-enviar input:hover{
     transform: scale(1.05);
 }
 
+html {
+  scroll-behavior: smooth
+}
+
 
 /*******************************ESTILO CABEÇALHO*********************************/
 header{
